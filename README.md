@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 Developing proficiency in JavaScript and React **Javascript and React**
 
-- 🚧Currently embarking in a side project Called **Mono**
+- 🚧 Currently embarking in a side project Called **Mono**
 
 - 🤝 I’m looking for help with **Mono app**
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **kar.basurto@hotmail.com**
 
-- ⚡ Fun fact **I love cooking and F1**
+- ⚡ Fun fact **I recentyl completed my first half marathon Leamington 2024, love cooking and F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
