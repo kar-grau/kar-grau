@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Karina</h1>
 <h1 align="center">Im a Junior Fullstack developer with love for design </h1>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 Developing proficiency in JavaScript and React **Javascript and React**
 
 - 🚧Currently embarking in a side project Called **Mono**
 
